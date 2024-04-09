@@ -1,7 +1,7 @@
 # Luis Francisco Alvarez 🇪🇸 🇦🇷
 
 ## About Me
-Hello! I'm Luis, an Economist and Data Scientist with a background in Economics and a Master's in Data Science from the Barcelona School of Economics. My journey into the world of data began during my undergraduate studies and has continued up until my ongoing Masters's program in the field. I discovered my passion for statistics, machine learning, and their applications in finance and economics.  Now, I'm eager to blend my analytical skills with my interest in finance to pursue a career as a hybrid analyst, where I can leverage data to drive decision-making in financial and bussines contexts. 
+Hello! I'm Luis, an Economist and Data Scientist with a background in Economics and a Master's in Data Science from the Barcelona School of Economics. My journey into the world of data began during my undergraduate studies and has continued up until my ongoing Masters's program in the field. I discovered my passion for statistics, machine learning, and their applications in finance and economics.  Now, I'm eager to blend my analytical skills with my interest in finance to pursue a career as a hybrid analyst, where I can leverage data to drive decision-making in financial and business contexts. 
 
 I enjoy collaborating on team projects and learning from experienced coders to adopt best practices. While I'm not a computer scientist, I value understanding how algorithms work rather than treating them as black boxes. Programming allows me to materialize my ideas into code, particularly for analyzing data in finance and business contexts. The majority of my repositories contain projects that I have worked on over the past year.
 
