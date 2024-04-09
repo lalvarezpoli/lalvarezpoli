@@ -41,7 +41,6 @@ Feel free to reach out to me for collaborations or if you'd like to chat about f
 
 - 📧 **Email:** alvarezpluisf@gmail.com
 - 📱 **Phone:** +34654733800 🇪🇸
-- 🖥️ **GitHub:** [lalvarezpoli](https://github.com/lalvarezpoli)
 - 🌐 **LinkedIn:** [https://www.linkedin.com/in/luis-francisco-alvarez-poli-paez-33a588155/]
 
 
