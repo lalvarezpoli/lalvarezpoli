@@ -5,13 +5,6 @@ Hello! I'm Luis, an Economist and Data Scientist with a background in Economics 
 
 I enjoy collaborating on team projects and learning from experienced coders to adopt best practices. While I'm not a computer scientist, I value understanding how algorithms work rather than treating them as black boxes. Programming allows me to materialize my ideas into code, particularly for analyzing data in finance and business contexts. The majority of my repositories contain projects that I have worked on over the past year.
 
-## Education
-I'm finalizing  my Master's in Data Science for Decision Making at BSE, building upon my Bachelor's in Economics and feeling excited to apply this knowledge to real-world challenges and improve my toolbox even further!
-
-- **MSc in Data Science for Decision Making**, Barcelona School of Economics (2023-2024)
-- **Bachelor in Economics**, Universidad Torcuato Ditella (2018-2021)
-  - Minor Field in Data Science
-
 
 ## Skills
 
