@@ -21,12 +21,12 @@ I'm finalizing  my Master's in Data Science for Decision Making at BSE, building
 
 ## Relevant Projects
 
+- [Pokemon](https://github.com/ruimaciell/CDS_final_pokemon):
+      Predictive model estimating a Pokemon's probability of winning in combat. Crafting and implementation of personalized library of functions.
 - [PGA vs LIV](https://github.com/mgallon235/pga_liv):
       Analysis over the biggest golfing world conflict in recent memory. Sentiment analysis using text analysis from press conferences
 - [Deep Learning prediction](https://github.com/lalvarezpoli/DeepLearning):
       Binary classification and regression using deep learning algorithms. KNN, SVM, Ensemble models and (Feed Forward) Neural Networks.
-- [Pokemon](https://github.com/ruimaciell/CDS_final_pokemon):
-      Predictive model estimating a Pokemon's probability of winning in combat. Crafting and implementation of personalized library of functions.
 - [Barcelona hotel prices](https://github.com/VanessaKromm/Booking_Scraping):
       A look at the effect on hotel prices for Barcelona due to the Primavera Sound Festival; through a dif in dif approach using booking accomodations from Barcelona and Rome.
 
