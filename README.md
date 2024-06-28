@@ -13,7 +13,8 @@ I enjoy collaborating on team projects and learning from experienced coders to a
 
 
 ## Relevant Projects
-
+- [Master's Thesis](https://github.com/lalvarezpoli/DSDM_Thesis)
+      Do ECB Executive Members Use Conceptual Metaphors in Their Communications About Inflation? How Do They Use Them?
 - [Pokemon](https://github.com/ruimaciell/CDS_final_pokemon):
       Predictive model estimating a Pokemon's probability of winning in combat. Crafting and implementation of personalized library of functions.
 - [Deep Learning prediction](https://github.com/lalvarezpoli/DeepLearning):
@@ -26,7 +27,7 @@ I enjoy collaborating on team projects and learning from experienced coders to a
 
 ## Interests
 
-Outside of data science, I'm an avid sports fan with a passion for golf, football, and tennis. I've spent the last 6 months training for a full marathon, challenging myself both mentally and physically to get the better out of myself.
+Outside of data science, I'm an avid sports fan with a passion for golf, tennis, and football. I've spent the last 6 months training for a full marathon, challenging myself both mentally and physically to get the better out of myself.
 
 ## Let's Connect!
 
