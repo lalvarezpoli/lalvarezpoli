@@ -13,7 +13,7 @@ I enjoy collaborating on team projects and learning from experienced coders to a
 
 
 ## Relevant Projects
-- [Master's Thesis](https://github.com/lalvarezpoli/DSDM_Thesis)
+- [Master's Thesis](https://github.com/lalvarezpoli/DSDM_Thesis):
       Do ECB Executive Members Use Conceptual Metaphors in Their Communications About Inflation? How Do They Use Them?
 - [Pokemon](https://github.com/ruimaciell/CDS_final_pokemon):
       Predictive model estimating a Pokemon's probability of winning in combat. Crafting and implementation of personalized library of functions.
